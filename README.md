@@ -6,7 +6,9 @@
 - 🎨 Love making creative and interactive websites  
 - 🎯 Always learning something new in tech!  
 
-![Cute Anime GIF](https://media.tenor.com/0hA3PpLjjO4AAAAC/anime-girl.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500"/>
+</p>
 
 ### 🌎 Let's Connect!  
 [💼 LinkedIn](#) | [🌐 Portfolio](#) | [📩 Email Me](#)
