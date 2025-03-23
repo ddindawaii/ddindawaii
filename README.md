@@ -1,6 +1,5 @@
-## 👋 Hi, I'm ddindawaii!  
-### 🚀 Welcome to My GitHub Profile  
-  
+<h1 align="center">Ngoding dulu, paniknya belakangan! 😆🔥</h1>
+ 
   <p align="center">
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" width="900"/>
 </p>
