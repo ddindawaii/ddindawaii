@@ -7,7 +7,7 @@
 - 🎯 Always learning something new in tech!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhlZzZnYWFpcnQxYXljZG9uNWZubHdtb3huc3F1OWVwYzR2MjlqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8fDTWt2KxWnRKeZbVs/giphy.gif" width="500"/>
 </p>
 
 ### 🌎 Let's Connect!  
