@@ -1,20 +1,12 @@
 ## 👋 Hi, I'm ddindawaii!  
 ### 🚀 Welcome to My GitHub Profile  
 
-- 💻 Passionate about coding and UI/UX design.  
-- 🚀 Currently exploring React, Vue, and PHP.  
-- 🎨 Love making creative and interactive websites.  
+- 💻 Passionate about coding and UI/UX design  
+- 🚀 Currently exploring React, Vue, and PHP  
+- 🎨 Love making creative and interactive websites  
 - 🎯 Always learning something new in tech!  
 
-### 🎬 Anime Vibes  
-![Anime Girl Coding](https://media.tenor.com/OqPzld5bFJIAAAAC/anime-girl-coding.gif)
-
-### 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddindawaii&show_icons=true&theme=radical)
+![Cute Anime GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZxNG1zMnQ5em5uZXRuNTRlZG5zMTVoYXRmdXJxdjdpbHZ3MjAwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jRf5fsnqC30rG/giphy.gif)
 
 ### 🌎 Let's Connect!  
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
-- 📩 Reach me at: ddindawaii@example.com  
-
----
+[💼 LinkedIn](#) | [🌐 Portfolio](#) | [📩 Email Me](#)
