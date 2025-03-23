@@ -3,7 +3,7 @@
 - 💻 Working with JavaScript, React, and PHP.  
 - 🎨 Enjoy making UI/UX design.  
 
-![Welcome](https://media.tenor.com/0z3k7a1JzZAAAAAC/anime-computer-typing.gif)
+![Welcome](https://tenor.com/bNKCM.gif)
 
 ### 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddindawaii&show_icons=true&theme=radical)
