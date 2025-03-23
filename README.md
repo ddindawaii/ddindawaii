@@ -6,4 +6,4 @@
 </p>
 
 ### 🌎 Let's Connect!  
-[💼 LinkedIn](https://www.linkedin.com/in/ddindawaii?) | [🌐 Portfolio](#) | [📩 Email Me](mailto:ddindawaii@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/ddindawaii?) | [🌐 Portfolio](https://github.com/ddindawaii/My-Portofolio.git) | [📩 Email Me](mailto:ddindawaii@gmail.com)
